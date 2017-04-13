@@ -1,0 +1,4 @@
+{
+  "extends": ["standard", "standard-react"]
+//  "eslint": "^3.19.0",
+}
